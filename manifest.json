@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Tab Switch",
-  "description": "Cambiar entre pestañas de Google Chrome de manera automática",
+  "description": "Switching between Google Chrome tabs automatically",
   "version": "1.0",
   "author": "ronalruiiz",
   "permissions": [

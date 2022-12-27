@@ -4,7 +4,7 @@
   "description": "Switching between Google Chrome tabs automatically",
   "version": "1.0",
   "author": "ronalruiiz",
-  "permissions": [
+  "permissiogit ns": [
     "activeTab",
     "tabs",
     "scripting"
